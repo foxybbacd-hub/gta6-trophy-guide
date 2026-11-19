@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-checklist.jpg","note":"Cover: the trophy checklist (names, grades, descriptions, guides, sources) with the filters and export/import controls, scrolled to the list","path":"/","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"Positive Mental Attitude (id 28) spotlighted: its full guide, POSSIBLY MISSABLE flag and cited sources","path":"/?trophy=28","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"The three-step roadmap to the platinum and the missable warning, with the start of the checklist","path":"/?view=roadmap","viewport":{"height":800,"width":1280}},{"file":"4-filters.jpg","note":"The spoiler setting and the Story filter at work: story trophies shown as hidden placeholders until earned","path":"/?spoiler=on&filter=story","viewport":{"height":800,"width":1280}}]
